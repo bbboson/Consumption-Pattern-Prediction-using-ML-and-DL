@@ -1,7 +1,6 @@
 # Bigcontest
-bigcontest
-
 work with
+
 정우일(https://github.com/WooilJeong)
 
 김보선(https://github.com/bbboson)
