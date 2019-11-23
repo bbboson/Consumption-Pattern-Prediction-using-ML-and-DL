@@ -1,4 +1,4 @@
-# Bigcontest
+# 미세먼지에 따른 소비 패턴 예측 모델
 work with
 
 정우일(https://github.com/WooilJeong)
